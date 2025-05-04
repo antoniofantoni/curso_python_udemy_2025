@@ -4,4 +4,5 @@ print(filme[0:]) # Top Gun: Maverick
 print(filme[0:3]) # Top# Gun
 print(filme[4:7]) # Gun
 print(filme[4:]) # Gun: Maverick
+print(filme[:3]) # Top
 
