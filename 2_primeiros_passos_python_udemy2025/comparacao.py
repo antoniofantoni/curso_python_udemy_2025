@@ -5,7 +5,7 @@
 <: Menor que.
 >=: Maior ou igual a.
 <=: Menor ou igual a.
-
+é isso
 '''
 
 x = 5
