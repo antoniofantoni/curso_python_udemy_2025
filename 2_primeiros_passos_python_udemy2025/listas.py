@@ -19,6 +19,7 @@ filme_matrix = ["Matrix", 1999, "Lana Wachowski", "Keanu Reeves", "Carrie-Anne M
 print(filme_matrix)  # ['Matrix', 1999, 'Lana Wachowski', 'Keanu Reeves', 'Carrie-Anne Moss']
 print(type(filme_matrix))  # <class 'list'>
 print(filme_matrix[:2]) # # ['Matrix', 1999], acessa os dois primeiros elementos da lista (índices 0 e 1)
+print(filme_matrix[2:]) # ['Lana Wachowski', 'Keanu Reeves', 'Carrie-Anne Moss'], acessa os elementos a partir do índice 2 até o final da lista
 
 
 
