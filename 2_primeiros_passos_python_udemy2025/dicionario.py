@@ -1,3 +1,5 @@
+import pprint
+
 # Dicionário em Python
 # dicionario de dados
 # # Dicionários são estruturas de dados que armazenam pares de chave-valor. Eles são mutáveis e não ordenados.  
@@ -38,3 +40,20 @@ funcionario_1.pop("cargo") # Removendo um valor do dicionário
 funcionario_1.popitem() # Removendo o último valor do dicionário
 funcionario_1.clear() # Limpando o dicionário
 
+# Dicionário aninhado (dicionário dentro de dicionário)
+funcionario_1 = {
+  "nome": "Antonio",
+  "idade": 30,
+  "cidade": "São Paulo",
+  "cargo": "Presidente",
+  "salario": 100000.00,
+  "endereco": {"rua": "Rua das Flores", "numero": 123,"bairro": "Centro","cep": "12345-678"}
+} 
+
+print("@@@@@@@@@")
+pp = pprint.PrettyPrinter(depth=4) # Indentação de 4 espaços
+pp.pprint(funcionario_1) # Imprimindo o dicionário com indentação de 4 espaços
+
+# Acessando valores do dicionário aninhado
+print(funcionario_1["endereco"]["rua"]) # Rua das Flores
+ 
