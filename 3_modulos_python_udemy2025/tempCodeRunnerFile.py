@@ -1,0 +1,1 @@
+from strings_utils import capitalize_string as cs, contar as c
