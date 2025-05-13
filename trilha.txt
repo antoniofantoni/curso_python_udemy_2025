@@ -1,0 +1,9 @@
+Seção 1 - Introdução  OK
+Seção 2 - Fundamentos OK
+Seção 3 - Módulos
+Seção 15 - Dashboard completo
+Seção 17 - Dashboard profissional com python
+Seção 25 - Pandas
+Seção 26 visualização de dados
+Seção 27 Analytics
+Seção 31 Web scraping
