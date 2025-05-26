@@ -1,4 +1,4 @@
-DataPedido;Regiao;Estado;Vendedor;Item;Unidades;PrecoUnidade
+DataPedido;Regiao;Estado;Vendedor;Item;Unidade;PrecoUnidade
 7-Jun-2016;Nordeste;Pernambuco;Tobias;Geladeira;62;400.99
 11-Jul-2016;Nordeste;Paraíba;Nadia;Microondas;29;100.99
 20-Jul-2016;Sudeste;Minas Gerais;Carlos;Geladeira;55;1200.49
