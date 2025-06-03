@@ -1,0 +1,66 @@
+{
+    "receitas": [
+        {
+            "titulo": "Bolo Simples",
+            "tempo_preparo": "45 minutos",
+            "porcoes": "10 porções",
+            "ingredientes": [
+                {
+                    "ingrediente": "Farinha de trigo",
+                    "quantidade": "2 xícaras"
+                },
+                {
+                    "ingrediente": "Açúcar",
+                    "quantidade": "1 xícara"
+                },
+                {
+                    "ingrediente": "Leite",
+                    "quantidade": "1 xícara"
+                },
+                {
+                    "ingrediente": "Ovos",
+                    "quantidade": "3 unidades"
+                },
+                {
+                    "ingrediente": "Manteiga",
+                    "quantidade": "3 colheres de sopa"
+                }
+            ]
+        },
+        {
+            "titulo": "Bolo de Chocolate",
+            "tempo_preparo": "60 minutos",
+            "porcoes": "12 porções",
+            "ingredientes": [
+                {
+                    "ingrediente": "Farinha de trigo",
+                    "quantidade": "2 xícaras"
+                },
+                {
+                    "ingrediente": "Açúcar",
+                    "quantidade": "1 e 1/2 xícara"
+                },
+                {
+                    "ingrediente": "Cacau em pó",
+                    "quantidade": "1/2 xícara"
+                },
+                {
+                    "ingrediente": "Ovos",
+                    "quantidade": "4 unidades"
+                },
+                {
+                    "ingrediente": "Leite",
+                    "quantidade": "1 xícara"
+                },
+                {
+                    "ingrediente": "Óleo",
+                    "quantidade": "1/2 xícara"
+                },
+                {
+                    "ingrediente": "Fermento em pó",
+                    "quantidade": "1 colher de sopa"
+                }
+            ]
+        }
+    ]
+}
